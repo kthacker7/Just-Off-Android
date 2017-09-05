@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/res/merged/release/drawable-xhdpi/launcher_image.png",
+        "source": "/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/src/main/res/drawable-xhdpi/launcher_image.png"
+    },
+    {
+        "merged": "/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/res/merged/release/drawable-xhdpi/splash_screen2.png",
+        "source": "/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/src/main/res/drawable-xhdpi/splash_screen2.png"
+    }
+]

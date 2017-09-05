@@ -1,0 +1,7 @@
+#Wed Jun 14 11:05:46 IST 2017
+base.0=/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05f9f1cde737ff12abfb080ba10a387d1bc4f5c8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_548de0bb531c0a3194fc24d1387821a44ee1fcff/classes.dex
+base.1=/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_548de0bb531c0a3194fc24d1387821a44ee1fcff
+file.0=/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05f9f1cde737ff12abfb080ba10a387d1bc4f5c8/classes.dex

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.0_2a5257817f849e2fc13c446611b2a28267f38670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.0_1ab6613a12144d0113514f25d1ca3379a1e698c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_c50e13825a94f4ec0a5e9161352d28091f1aee8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.2.1_224f6ab1fb759b03400306fdba0e6a0b55553eeb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.1_9378f41ead28f965602df53afd4232bc211f7e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.0_8e12efbc61e1a3d10d96d0f906e20a45ed843e39.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_656cbd0b72e49175c56ed6f5e9c36cfafab9ed67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_785d6933da707ed183a6ade951263eba45d94bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="647c45e239080dae55248706cfecee6004892215">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05f9f1cde737ff12abfb080ba10a387d1bc4f5c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/support-annotations-25.1.0_0b821923b8ca6f3a147e8bc2bd40125d1ba17555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-9.2.1_90f8d5498794925163cc4dd5f2de59a401c2f08d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_5cad2d3a7eebe913163f356360be970c9bb90664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_d9bc4bf022a286825b7af8afbd9f748a9c51d102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_ab5d96b28efda4554940ac4ff2b9c16e68986a74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_1ee982d687b45aff7af3e3ec922e641fc3f8698c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-9.2.1_20ea2f37db34758e2ef28d2c50f768c516656f4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_aadc047f34c6bc15b9baebc385a0c56ee1ce1b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_a982f98d110d4d25c2eb1d91a6b142d176af58b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.2.1_77dbadb6fd3bce3e4e63adf4c8ef98e9aa5ea747.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.5.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfeba9e17614c43b87b9dbef4d9014d66de49b34">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.onesignal-OneSignal-3.5.7_1f57e282b884f2d18f55dcf4d07083ace1f38849/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.0_2a2d1e638b8a5d39732833e4caa67f19fe4f4fb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.1_5314ef8010e4eb760e7c0f380e00ed4883c7e99f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_1ab6613a12144d0113514f25d1ca3379a1e698c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.5.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cfe119a4d5986e4a93f4d14909f55871a601271">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.onesignal-OneSignal-3.5.8_c6dc2f7ee77700133b65991c1491d83f565a724b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_2a5257817f849e2fc13c446611b2a28267f38670/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.0_785d6933da707ed183a6ade951263eba45d94bd1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_8e12efbc61e1a3d10d96d0f906e20a45ed843e39/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.2.1_c50e13825a94f4ec0a5e9161352d28091f1aee8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-9.2.1_9378f41ead28f965602df53afd4232bc211f7e98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_224f6ab1fb759b03400306fdba0e6a0b55553eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.0_656cbd0b72e49175c56ed6f5e9c36cfafab9ed67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-9.2.1_5cad2d3a7eebe913163f356360be970c9bb90664.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_0b821923b8ca6f3a147e8bc2bd40125d1ba17555/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.2.1_d9bc4bf022a286825b7af8afbd9f748a9c51d102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.0_ab5d96b28efda4554940ac4ff2b9c16e68986a74.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_90f8d5498794925163cc4dd5f2de59a401c2f08d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.1_20ea2f37db34758e2ef28d2c50f768c516656f4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.0_1ee982d687b45aff7af3e3ec922e641fc3f8698c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-iid-9.2.1_5314ef8010e4eb760e7c0f380e00ed4883c7e99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-9.2.1_a982f98d110d4d25c2eb1d91a6b142d176af58b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.0_aadc047f34c6bc15b9baebc385a0c56ee1ce1b3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_77dbadb6fd3bce3e4e63adf4c8ef98e9aa5ea747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_2a2d1e638b8a5d39732833e4caa67f19fe4f4fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c07c2b4794e61c271d4c506f0dad14d18833f06">
+        <dex dex="/Users/kunalthacker/AndroidStudioProjects/WebviewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_548de0bb531c0a3194fc24d1387821a44ee1fcff/classes.dex" />
+    </item>
+
+</items>

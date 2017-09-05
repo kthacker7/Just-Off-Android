@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "498117925175",
+    "firebase_url": "https://webviewapp-815de.firebaseio.com",
+    "project_id": "webviewapp-815de",
+    "storage_bucket": "webviewapp-815de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498117925175:android:a5de340a50302ea4",
+        "android_client_info": {
+          "package_name": "com.justoff.webviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498117925175-4raipuso3oi3iab9825ub0siea9sf27m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIneBZyAkct8ULpTZLa2PjmuqMdoGcF-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
